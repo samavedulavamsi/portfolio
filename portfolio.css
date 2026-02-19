@@ -1,0 +1,18 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+}
+p {
+    color: green;
+}
+h1 {
+    color: navy;
+}
+.box {
+    width: 800px;                
+    padding: 90px;               
+    background-color: plum;      
+    border: 20px groove blue;      
+    margin: 50px ;            
+    text-align: justify;           
+}
